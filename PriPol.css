@@ -1,0 +1,46 @@
+/* Global styles */
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+h1, h2 {
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 1.5em;
+}
+
+p + ul, ul + p {
+  margin-top: 0.5em;
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  background-color: #eee;
+  padding: 1em;
+}
+
+/* Main content styles */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Footer styles */
+footer {
+  margin-top: 2em;
+  padding: 1em;
+  background-color: #eee;
+  text-align: center;
+}
