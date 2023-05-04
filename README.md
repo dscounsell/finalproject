@@ -1,19 +1,7 @@
-# [Apollo: Jade website template](http://buckymaler.com/apollo)
+# Digital Product Management Final Portfolio Project
 
-### [Featured on Freebiesbug](http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/)
+### My Final Project of College
 
-Apollo is a minimal, thoughtfully designed single page website template, and serves as the perfect showcase for a professional photographer.
+Using all the different skills I have accumulated across the semester, I created a portfolio project. The project entailed knowledge of HTML, CSS, GitHub, Azure, and Visual Studio Code.
 
-Here you can find the original [PSD](https://symu.co/freebies/templates-4/apollo-psd-template/)
-by Jakub Kowalczyk.
-
-This project was developed with Jade, Sass, and jQuery.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/apollo)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Jakub: [Twitter](https://twitter.com/jakubdesign)
+I began with an HTML template from free-css.com. Then, I changed all the text on the page to content personalized to me. Next, I found images that fit the text and changed the template pictures to my pictures. I won't go step-by-step, but this is just to give you an idea of the process. Most recently, I added flavicon and social media meta tags, which provide some personality to the page when the link is shared.
